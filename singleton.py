@@ -14,3 +14,6 @@ class singleton:
         if singleton._instance is None:
             singleton()
         return singleton._instance
+    
+
+
